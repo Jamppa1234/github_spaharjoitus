@@ -112,6 +112,17 @@ a.button1:hover {
 }
 
 .json {
-  background-color: white;
-  background-image: none;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.8);  
+  background-color: #ff6600;  
+  opacity: 0.9;
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+  color: rgb(29, 27, 27);
+}
+
+.json img {
+  max-width: 300px;
+  opacity: 0.9;
 }
